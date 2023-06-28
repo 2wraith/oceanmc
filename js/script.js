@@ -46,40 +46,29 @@ const config = {
     adminTeamPage: {
         leaders: [
             {
-                inGameName: "Seqentix",
+                inGameName: "Astronavta",
                 rank: "Owner",
                 skinUrlOrPathToFile: "",
-                rankColor: "rgba(255, 124, 124, 0.5)"
+                rankColor: "rgba(255, 3, 3, 1)"
             },
             {
-                inGameName: "Mel2X",
+                inGameName: "Astronavta",
                 rank: "Owner",
                 skinUrlOrPathToFile: "",
-                rankColor: "rgba(255, 124, 124, 0.5)"
+                rankColor: "rgba(255, 3, 3, 1)"
             },
             {
-                inGameName: "Khzzzx",
-                rank: "Owner",
-                skinUrlOrPathToFile: "",
-                rankColor: "rgba(255, 124, 124, 0.5)"
-            },
-            {
-                inGameName: "That1PsYcho",
+                inGameName: "Astronavta",
                 rank: "Manager",
                 skinUrlOrPathToFile: "",
-                rankColor: "rgba(255, 3, 3, 1)"
-            }
+                rankColor: ""
+            },
             {
-                inGameName: "411k",
-                rank: "Administrator",
-                skinUrlOrPathToFile: "",
-                rankColor: "rgba(255, 3, 3, 1)"
-            }
-            {
-                inGameName: "Mitko",
+                inGameName: "Astronavta",
                 rank: "Moderator",
                 skinUrlOrPathToFile: "",
-                rankColor: "rgba(255, 3, 3, 1)"
+                rankColor: ""
+            }
         ],
         developers: [
             {
@@ -192,7 +181,7 @@ const config = {
     Emails are sent via https://formsubmit.co/
     */
     contactPage: {
-        email: "meedija7777@gmail.com"
+        email: "astronavta@example.com"
     }
 }
 
