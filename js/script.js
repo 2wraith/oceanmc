@@ -9,7 +9,7 @@ const config = {
         serverLogoImageFileName: "logo.png", /*This is a file name for logo in /images/ (If you upload new logo with other name, you must change this value)*/
         serverName: "OceanMC", /*Server name*/
         serverIp: "play.oceanmc.fun", /*Server IP (if you want to add online user counter, you must have true the enable-status and enable-query of server.properties)*/
-        discordServerID: "1093860967592513596" /*Your server ID (if you want to add online user counter, you must have enabled Discord server widget)*/
+        discordServerID: "1093860968724975660" /*Your server ID (if you want to add online user counter, you must have enabled Discord server widget)*/
     },
 
     /*Admin-Team
