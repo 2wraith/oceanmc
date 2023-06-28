@@ -49,19 +49,19 @@ const config = {
                 inGameName: "Seqentix",
                 rank: "Owner",
                 skinUrlOrPathToFile: "",
-                rankColor: "rgba(255, 3, 3, 1)"
+                rankColor: "rgba(255, 124, 124, 0.5)"
             },
             {
                 inGameName: "Mel2X",
                 rank: "Owner",
                 skinUrlOrPathToFile: "",
-                rankColor: "rgba(255, 3, 3, 1)"
+                rankColor: "rgba(255, 124, 124, 0.5)"
             },
             {
                 inGameName: "Khzzzx",
                 rank: "Owner",
                 skinUrlOrPathToFile: "",
-                rankColor: "rgba(255, 3, 3, 1)"
+                rankColor: "rgba(255, 124, 124, 0.5)"
             },
             {
                 inGameName: "That1PsYcho",
@@ -192,7 +192,7 @@ const config = {
     Emails are sent via https://formsubmit.co/
     */
     contactPage: {
-        email: "astronavta@example.com"
+        email: "meedija7777@gmail.com"
     }
 }
 
