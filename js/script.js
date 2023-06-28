@@ -46,29 +46,40 @@ const config = {
     adminTeamPage: {
         leaders: [
             {
-                inGameName: "Astronavta",
+                inGameName: "Seqentix",
                 rank: "Owner",
                 skinUrlOrPathToFile: "",
                 rankColor: "rgba(255, 3, 3, 1)"
             },
             {
-                inGameName: "Astronavta",
+                inGameName: "Mel2X",
                 rank: "Owner",
                 skinUrlOrPathToFile: "",
                 rankColor: "rgba(255, 3, 3, 1)"
             },
             {
-                inGameName: "Astronavta",
+                inGameName: "Khzzzx",
+                rank: "Owner",
+                skinUrlOrPathToFile: "",
+                rankColor: "rgba(255, 3, 3, 1)"
+            },
+            {
+                inGameName: "That1PsYcho",
                 rank: "Manager",
                 skinUrlOrPathToFile: "",
-                rankColor: ""
-            },
+                rankColor: "rgba(255, 3, 3, 1)"
+            }
             {
-                inGameName: "Astronavta",
+                inGameName: "411k",
+                rank: "Administrator",
+                skinUrlOrPathToFile: "",
+                rankColor: "rgba(255, 3, 3, 1)"
+            }
+            {
+                inGameName: "Mitko",
                 rank: "Moderator",
                 skinUrlOrPathToFile: "",
-                rankColor: ""
-            }
+                rankColor: "rgba(255, 3, 3, 1)"
         ],
         developers: [
             {
