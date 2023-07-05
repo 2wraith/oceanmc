@@ -297,7 +297,7 @@ const getSkinByUuid = async (username) => {
 }
 
 /*IP copy only works if you have HTTPS on your website*/
-const copyIp = () => {
+const copyIp = (play.kiwimc.fun) => {
     const copyIpButton = document.querySelector(".copy-ip");
     const copyIpAlert = document.querySelector(".ip-copied");
 
