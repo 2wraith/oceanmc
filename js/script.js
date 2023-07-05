@@ -7,9 +7,9 @@ If something doesn't work please contact me on discord (Astronawta#0012).
 const config = {
     serverInfo: {
         serverLogoImageFileName: "logo.png", /*This is a file name for logo in /images/ (If you upload new logo with other name, you must change this value)*/
-        serverName: "OceanMC", /*Server name*/
-        serverIp: "play.oceanmc.fun", /*Server IP (if you want to add online user counter, you must have true the enable-status and enable-query of server.properties)*/
-        discordServerID: "https://discord.gg/3bhHwd9b" /*Your server ID (if you want to add online user counter, you must have enabled Discord server widget)*/
+        serverName: "KiwiMC", /*Server name*/
+        serverIp: "play.kiwimc.fun", /*Server IP (if you want to add online user counter, you must have true the enable-status and enable-query of server.properties)*/
+        discordServerID: "https://discord.gg/pgbr5ABkUp" /*Your server ID (if you want to add online user counter, you must have enabled Discord server widget)*/
     },
 
     /*Admin-Team
